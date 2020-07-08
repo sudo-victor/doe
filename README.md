@@ -6,8 +6,8 @@
 <hr />
 
 <p align="center">
-    <img src="./public/snapshot-1.png" width="500" alt="snapshot 1">
-    <img src="./public/snapshot-2.png" width="500" alt="snapshot 1">
+    <img src="./public/snapshot-1.png" width="750" alt="snapshot 1">
+    <img src="./public/snapshot-2.png" width="750" alt="snapshot 1">
 </p>
 
 
@@ -31,7 +31,5 @@
 ### Inicialização 
 
  - Antes de dar um ```yarn dev``` ou ```npm run dev``` você deverá criar um arquivo ```.env``` na pasta raiz e copiar tudo que tem no arquivo ```file_env```
- - Você precisa colocar todas as configurações do seu banco de dados postgres e do email no arquivo ```.env```
+ - Você precisa colocar todas as configurações do seu banco de dados postgres, do email e a porta do servido no arquivo ```.env```
  - E depois disso tudo rodar com ```yarn dev``` ou ```npm run dev```
-
-Estará rodando na porta 8000
