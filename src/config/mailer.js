@@ -13,9 +13,9 @@ module.exports = {
     },
 
     mailOptions: {
-        from: 'victor.souto@hotmail.com',
+        from: 'teste@email.com',
         to: '',
-        replayTo: '', 
+        replayTo: '',
         subject: 'Obrigado por DOAR!!!',
         html: '',
     }
